@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node serve.js",
-    "build": "echo 'Static build complete'"
+    "start": "node serve.js"
   }
 }
